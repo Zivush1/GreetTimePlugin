@@ -1,0 +1,3 @@
+# Greeting message for the /greet command
+# Use %player% as a placeholder for the player's name
+greeting-message: "&aHello, %player%! Welcome to the server!"

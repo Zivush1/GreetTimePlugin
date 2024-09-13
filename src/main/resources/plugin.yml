@@ -1,0 +1,11 @@
+name: GreetTimePlugin
+version: '${project.version}'
+main: me.zivush.greettimeplugin.GreetTimePlugin
+api-version: '1.19'
+commands:
+  greet:
+    description: Greet a player
+    usage: /<command> <player>
+  timecheck:
+    description: Check the current server time
+    usage: /<command>
